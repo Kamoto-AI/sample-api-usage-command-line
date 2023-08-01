@@ -1,0 +1,22 @@
+{
+  "name": "sample-api-usage-command-line",
+  "version": "1.0.0",
+  "description": "sample-api-usage-command-line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamoto-AI/sample-api-usage-command-line.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamoto-AI/sample-api-usage-command-line/issues"
+  },
+  "homepage": "https://github.com/Kamoto-AI/sample-api-usage-command-line#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
