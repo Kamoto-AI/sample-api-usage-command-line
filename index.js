@@ -17,7 +17,7 @@ const body = {
       content: 'Hi',
     },
     {
-      role: 'assistant',
+      role: 'character',
       content: 'Hello!',
     },
     {
