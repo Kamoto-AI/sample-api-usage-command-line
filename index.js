@@ -31,7 +31,7 @@ const body = {
 async function fetchResponse() {
   try {
     const response = await axios.post(postUrl, body, { headers });
-    console.log(response.data.data.choices[0].message.content);
+    console.log(response.data.choices[0].message.content);
   } catch (error) {
     console.error('Error:', error);
   }
